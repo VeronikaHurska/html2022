@@ -1,0 +1,24 @@
+img{
+    width: 301px;
+    object-fit: contain;
+
+}
+h1{
+    background: rgb(6, 9, 136);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+h2{
+    background:orangered;
+    text-align: center;
+}
+p{
+    background: rgb(5, 9, 136);
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+li{
+    background-color: darkorange;
+    color: black;
+    font-size: 30px;
+}

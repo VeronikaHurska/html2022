@@ -1,0 +1,33 @@
+.block{
+    display: flex;
+}
+.cards{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 250px;
+    border: 2px solid gray;
+    margin: 15px;
+}
+.head{
+    font-size: 35px;
+    margin: 10px;
+}
+.text{
+    color: gray;
+    margin-bottom: 5px;
+    font-size: 25px;
+    padding: 12px;
+}
+p{
+    margin: 10px;
+}
+
+
+.btn{
+    width: 150px;
+    height: 40px;
+    background: white;
+    border: 1px solid black;
+    margin-bottom: 12px;
+}
