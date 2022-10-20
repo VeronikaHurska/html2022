@@ -1,0 +1,63 @@
+.block{
+    display: flex;
+    margin: 40px;
+}
+.cards{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 250px;
+    border: 2px solid gray;
+    margin: 15px;
+}
+.head{
+    color: orange;
+    font-size: 35px;
+    margin: 10px;
+}
+.text{
+    color: gray;
+    margin-bottom: 5px;
+    font-size: 25px;
+    padding: 12px;
+}
+p{
+    margin: 10px;
+}
+
+
+.btn{
+    width: 150px;
+    height: 40px;
+    background: white;
+    border: 1px solid black;
+    margin-bottom: 12px;
+}
+button:hover{
+    color: orange;
+    border: 2px solid orange;
+
+}
+.fa-palette{
+    font-size: 30px;
+    color: orange;
+}
+.father-flex-icon{
+    height: 60px;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: center;
+    border: 2px solid black;
+    position: relative;
+    bottom: 30px;
+    border-radius: 50%;
+    background: rgb(255, 255, 255);
+
+}
+.iy{
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
